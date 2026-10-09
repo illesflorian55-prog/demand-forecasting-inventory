@@ -1,0 +1,41 @@
+sku,product_name,category,unit_price,unit_cost,lead_time_weeks
+SKU001,Sampon normál hajra 400 ml,Hajápolás,1780.0,1140.0,3
+SKU002,Sampon korpásodás ellen 250 ml,Hajápolás,1670.0,1150.0,1
+SKU003,Hajbalzsam 200 ml,Hajápolás,1640.0,1140.0,2
+SKU004,Hajpakolás 300 ml,Hajápolás,2180.0,1460.0,2
+SKU005,Hajlakk 250 ml,Hajápolás,1380.0,840.0,2
+SKU006,Hajfesték barna,Hajápolás,3390.0,2430.0,2
+SKU007,Szárazsampon 200 ml,Hajápolás,1540.0,1000.0,1
+SKU008,Tusfürdő 250 ml,Testápolás,1260.0,790.0,3
+SKU009,Testápoló 400 ml,Testápolás,2580.0,1550.0,1
+SKU010,Golyós dezodor 50 ml,Testápolás,1140.0,790.0,2
+SKU011,Spray dezodor 150 ml,Testápolás,1400.0,900.0,2
+SKU012,Kézkrém 75 ml,Testápolás,2440.0,1520.0,1
+SKU013,Ajándékszett tusfürdő+testápoló,Testápolás,1220.0,750.0,1
+SKU014,Folyékony szappan 500 ml,Testápolás,1640.0,1130.0,2
+SKU015,Naptej SPF30 200 ml,Napvédelem,3430.0,2030.0,2
+SKU016,Naptej SPF50 200 ml,Napvédelem,4610.0,3120.0,2
+SKU017,Napozás utáni testápoló,Napvédelem,2160.0,1280.0,1
+SKU018,Gyermek naptej SPF50+,Napvédelem,3420.0,2450.0,2
+SKU019,Napvédő arckrém SPF50,Napvédelem,2800.0,1980.0,2
+SKU020,Mosógél 2 l,Háztartás és tisztítás,1060.0,740.0,2
+SKU021,Mosókapszula (30 db),Háztartás és tisztítás,2280.0,1530.0,1
+SKU022,"Öblítő 1,5 l",Háztartás és tisztítás,1740.0,1040.0,1
+SKU023,Mosogatószer 1 l,Háztartás és tisztítás,1130.0,710.0,2
+SKU024,Mosogatógép-tabletta (40 db),Háztartás és tisztítás,1450.0,860.0,2
+SKU025,Általános tisztítószer 750 ml,Háztartás és tisztítás,620.0,380.0,2
+SKU026,Fürdőszobai tisztító 500 ml,Háztartás és tisztítás,1890.0,1330.0,1
+SKU027,WC-tisztító gél 750 ml,Háztartás és tisztítás,1280.0,870.0,2
+SKU028,Pelenka 4-es méret (50 db),Babaápolás,1930.0,1270.0,2
+SKU029,Pelenka 5-ös méret (44 db),Babaápolás,3740.0,2320.0,2
+SKU030,Popsitörlő (3×64 db),Babaápolás,2300.0,1470.0,3
+SKU031,Babasampon 300 ml,Babaápolás,2590.0,1690.0,2
+SKU032,Popsikrém 100 ml,Babaápolás,3140.0,2150.0,1
+SKU033,Babafürdető 400 ml,Babaápolás,4940.0,2970.0,1
+SKU034,Fogkrém fehérítő 75 ml,Szájhigiénia,1380.0,990.0,2
+SKU035,Fogkrém érzékeny fogra 75 ml,Szájhigiénia,1140.0,770.0,1
+SKU036,Fogkefe közepes,Szájhigiénia,810.0,560.0,2
+SKU037,Szájvíz 500 ml,Szájhigiénia,1310.0,830.0,2
+SKU038,Fogselyem 50 m,Szájhigiénia,1040.0,740.0,1
+SKU039,Elektromos fogkefe pótfej (2 db),Szájhigiénia,1140.0,730.0,3
+SKU040,Gyermek fogkrém 50 ml,Szájhigiénia,660.0,460.0,1

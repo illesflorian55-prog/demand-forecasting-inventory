@@ -1,0 +1,17 @@
+horizont_het,modell,wape
+1,Naiv (utolsó hét),0.4249
+1,4 hetes mozgóátlag,0.4018
+1,Szezonális naiv (előző év),0.477
+1,Gépi tanulás (gradient boosting),0.2127
+2,Naiv (utolsó hét),0.4994
+2,4 hetes mozgóátlag,0.4121
+2,Szezonális naiv (előző év),0.477
+2,Gépi tanulás (gradient boosting),0.2132
+3,Naiv (utolsó hét),0.4913
+3,4 hetes mozgóátlag,0.4047
+3,Szezonális naiv (előző év),0.477
+3,Gépi tanulás (gradient boosting),0.2178
+4,Naiv (utolsó hét),0.4914
+4,4 hetes mozgóátlag,0.4089
+4,Szezonális naiv (előző év),0.477
+4,Gépi tanulás (gradient boosting),0.219

@@ -1,0 +1,13 @@
+szegmens,modell,wape,torzitas,sorok
+Összes hét,Naiv (utolsó hét),0.4768,-0.0036,8320
+Összes hét,4 hetes mozgóátlag,0.4069,-0.001,8320
+Összes hét,Szezonális naiv (előző év),0.477,-0.0368,8320
+Összes hét,Gépi tanulás (gradient boosting),0.2157,-0.0222,8320
+Akciós hetek,Naiv (utolsó hét),0.5641,-0.5332,1044
+Akciós hetek,4 hetes mozgóátlag,0.5523,-0.5238,1044
+Akciós hetek,Szezonális naiv (előző év),0.603,-0.552,1044
+Akciós hetek,Gépi tanulás (gradient boosting),0.2458,-0.0118,1044
+Nem akciós hetek,Naiv (utolsó hét),0.4451,0.1882,7276
+Nem akciós hetek,4 hetes mozgóátlag,0.3542,0.1883,7276
+Nem akciós hetek,Szezonális naiv (előző év),0.4313,0.1497,7276
+Nem akciós hetek,Gépi tanulás (gradient boosting),0.2047,-0.026,7276

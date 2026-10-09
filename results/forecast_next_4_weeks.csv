@@ -1,0 +1,161 @@
+sku,product_name,category,origin_week,target_week,h,promo_days,discount,forecast
+SKU001,Sampon normál hajra 400 ml,Hajápolás,2025-12-22,2025-12-29,1,0.00,0.00,89.60
+SKU002,Sampon korpásodás ellen 250 ml,Hajápolás,2025-12-22,2025-12-29,1,0.00,0.00,54.99
+SKU003,Hajbalzsam 200 ml,Hajápolás,2025-12-22,2025-12-29,1,0.00,0.00,45.76
+SKU004,Hajpakolás 300 ml,Hajápolás,2025-12-22,2025-12-29,1,7.00,0.33,187.33
+SKU005,Hajlakk 250 ml,Hajápolás,2025-12-22,2025-12-29,1,0.00,0.00,73.19
+SKU006,Hajfesték barna,Hajápolás,2025-12-22,2025-12-29,1,0.00,0.00,43.19
+SKU007,Szárazsampon 200 ml,Hajápolás,2025-12-22,2025-12-29,1,0.00,0.00,99.13
+SKU008,Tusfürdő 250 ml,Testápolás,2025-12-22,2025-12-29,1,0.00,0.00,84.65
+SKU009,Testápoló 400 ml,Testápolás,2025-12-22,2025-12-29,1,0.00,0.00,86.26
+SKU010,Golyós dezodor 50 ml,Testápolás,2025-12-22,2025-12-29,1,0.00,0.00,53.11
+SKU011,Spray dezodor 150 ml,Testápolás,2025-12-22,2025-12-29,1,0.00,0.00,69.30
+SKU012,Kézkrém 75 ml,Testápolás,2025-12-22,2025-12-29,1,0.00,0.00,62.46
+SKU013,Ajándékszett tusfürdő+testápoló,Testápolás,2025-12-22,2025-12-29,1,0.00,0.00,71.11
+SKU014,Folyékony szappan 500 ml,Testápolás,2025-12-22,2025-12-29,1,7.00,0.33,174.78
+SKU015,Naptej SPF30 200 ml,Napvédelem,2025-12-22,2025-12-29,1,0.00,0.00,9.78
+SKU016,Naptej SPF50 200 ml,Napvédelem,2025-12-22,2025-12-29,1,0.00,0.00,11.58
+SKU017,Napozás utáni testápoló,Napvédelem,2025-12-22,2025-12-29,1,0.00,0.00,8.66
+SKU018,Gyermek naptej SPF50+,Napvédelem,2025-12-22,2025-12-29,1,0.00,0.00,11.55
+SKU019,Napvédő arckrém SPF50,Napvédelem,2025-12-22,2025-12-29,1,0.00,0.00,10.24
+SKU020,Mosógél 2 l,Háztartás és tisztítás,2025-12-22,2025-12-29,1,7.00,0.33,179.85
+SKU021,Mosókapszula (30 db),Háztartás és tisztítás,2025-12-22,2025-12-29,1,0.00,0.00,73.62
+SKU022,"Öblítő 1,5 l",Háztartás és tisztítás,2025-12-22,2025-12-29,1,0.00,0.00,38.22
+SKU023,Mosogatószer 1 l,Háztartás és tisztítás,2025-12-22,2025-12-29,1,7.00,0.25,117.03
+SKU024,Mosogatógép-tabletta (40 db),Háztartás és tisztítás,2025-12-22,2025-12-29,1,0.00,0.00,406.87
+SKU025,Általános tisztítószer 750 ml,Háztartás és tisztítás,2025-12-22,2025-12-29,1,0.00,0.00,40.77
+SKU026,Fürdőszobai tisztító 500 ml,Háztartás és tisztítás,2025-12-22,2025-12-29,1,0.00,0.00,30.67
+SKU027,WC-tisztító gél 750 ml,Háztartás és tisztítás,2025-12-22,2025-12-29,1,7.00,0.15,135.67
+SKU028,Pelenka 4-es méret (50 db),Babaápolás,2025-12-22,2025-12-29,1,7.00,0.20,69.27
+SKU029,Pelenka 5-ös méret (44 db),Babaápolás,2025-12-22,2025-12-29,1,0.00,0.00,40.53
+SKU030,Popsitörlő (3×64 db),Babaápolás,2025-12-22,2025-12-29,1,0.00,0.00,82.89
+SKU031,Babasampon 300 ml,Babaápolás,2025-12-22,2025-12-29,1,0.00,0.00,77.38
+SKU032,Popsikrém 100 ml,Babaápolás,2025-12-22,2025-12-29,1,7.00,0.25,39.07
+SKU033,Babafürdető 400 ml,Babaápolás,2025-12-22,2025-12-29,1,0.00,0.00,105.44
+SKU034,Fogkrém fehérítő 75 ml,Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,59.72
+SKU035,Fogkrém érzékeny fogra 75 ml,Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,44.76
+SKU036,Fogkefe közepes,Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,25.86
+SKU037,Szájvíz 500 ml,Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,115.57
+SKU038,Fogselyem 50 m,Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,75.62
+SKU039,Elektromos fogkefe pótfej (2 db),Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,148.89
+SKU040,Gyermek fogkrém 50 ml,Szájhigiénia,2025-12-22,2025-12-29,1,0.00,0.00,118.21
+SKU001,Sampon normál hajra 400 ml,Hajápolás,2025-12-22,2026-01-05,2,0.00,0.00,96.00
+SKU002,Sampon korpásodás ellen 250 ml,Hajápolás,2025-12-22,2026-01-05,2,0.00,0.00,54.45
+SKU003,Hajbalzsam 200 ml,Hajápolás,2025-12-22,2026-01-05,2,0.00,0.00,42.19
+SKU004,Hajpakolás 300 ml,Hajápolás,2025-12-22,2026-01-05,2,7.00,0.33,190.06
+SKU005,Hajlakk 250 ml,Hajápolás,2025-12-22,2026-01-05,2,0.00,0.00,78.56
+SKU006,Hajfesték barna,Hajápolás,2025-12-22,2026-01-05,2,0.00,0.00,43.48
+SKU007,Szárazsampon 200 ml,Hajápolás,2025-12-22,2026-01-05,2,7.00,0.25,309.47
+SKU008,Tusfürdő 250 ml,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,75.81
+SKU009,Testápoló 400 ml,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,63.14
+SKU010,Golyós dezodor 50 ml,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,58.47
+SKU011,Spray dezodor 150 ml,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,70.52
+SKU012,Kézkrém 75 ml,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,68.45
+SKU013,Ajándékszett tusfürdő+testápoló,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,81.78
+SKU014,Folyékony szappan 500 ml,Testápolás,2025-12-22,2026-01-05,2,0.00,0.00,57.15
+SKU015,Naptej SPF30 200 ml,Napvédelem,2025-12-22,2026-01-05,2,0.00,0.00,11.36
+SKU016,Naptej SPF50 200 ml,Napvédelem,2025-12-22,2026-01-05,2,0.00,0.00,14.92
+SKU017,Napozás utáni testápoló,Napvédelem,2025-12-22,2026-01-05,2,0.00,0.00,7.09
+SKU018,Gyermek naptej SPF50+,Napvédelem,2025-12-22,2026-01-05,2,0.00,0.00,15.37
+SKU019,Napvédő arckrém SPF50,Napvédelem,2025-12-22,2026-01-05,2,7.00,0.33,16.53
+SKU020,Mosógél 2 l,Háztartás és tisztítás,2025-12-22,2026-01-05,2,0.00,0.00,45.44
+SKU021,Mosókapszula (30 db),Háztartás és tisztítás,2025-12-22,2026-01-05,2,7.00,0.10,131.90
+SKU022,"Öblítő 1,5 l",Háztartás és tisztítás,2025-12-22,2026-01-05,2,7.00,0.15,77.53
+SKU023,Mosogatószer 1 l,Háztartás és tisztítás,2025-12-22,2026-01-05,2,0.00,0.00,37.25
+SKU024,Mosogatógép-tabletta (40 db),Háztartás és tisztítás,2025-12-22,2026-01-05,2,0.00,0.00,463.94
+SKU025,Általános tisztítószer 750 ml,Háztartás és tisztítás,2025-12-22,2026-01-05,2,0.00,0.00,44.52
+SKU026,Fürdőszobai tisztító 500 ml,Háztartás és tisztítás,2025-12-22,2026-01-05,2,0.00,0.00,32.14
+SKU027,WC-tisztító gél 750 ml,Háztartás és tisztítás,2025-12-22,2026-01-05,2,0.00,0.00,84.09
+SKU028,Pelenka 4-es méret (50 db),Babaápolás,2025-12-22,2026-01-05,2,0.00,0.00,36.61
+SKU029,Pelenka 5-ös méret (44 db),Babaápolás,2025-12-22,2026-01-05,2,0.00,0.00,47.37
+SKU030,Popsitörlő (3×64 db),Babaápolás,2025-12-22,2026-01-05,2,0.00,0.00,92.32
+SKU031,Babasampon 300 ml,Babaápolás,2025-12-22,2026-01-05,2,0.00,0.00,85.25
+SKU032,Popsikrém 100 ml,Babaápolás,2025-12-22,2026-01-05,2,7.00,0.25,46.91
+SKU033,Babafürdető 400 ml,Babaápolás,2025-12-22,2026-01-05,2,0.00,0.00,126.51
+SKU034,Fogkrém fehérítő 75 ml,Szájhigiénia,2025-12-22,2026-01-05,2,0.00,0.00,72.19
+SKU035,Fogkrém érzékeny fogra 75 ml,Szájhigiénia,2025-12-22,2026-01-05,2,0.00,0.00,54.73
+SKU036,Fogkefe közepes,Szájhigiénia,2025-12-22,2026-01-05,2,0.00,0.00,29.29
+SKU037,Szájvíz 500 ml,Szájhigiénia,2025-12-22,2026-01-05,2,7.00,0.10,211.39
+SKU038,Fogselyem 50 m,Szájhigiénia,2025-12-22,2026-01-05,2,7.00,0.10,143.59
+SKU039,Elektromos fogkefe pótfej (2 db),Szájhigiénia,2025-12-22,2026-01-05,2,0.00,0.00,176.37
+SKU040,Gyermek fogkrém 50 ml,Szájhigiénia,2025-12-22,2026-01-05,2,0.00,0.00,138.47
+SKU001,Sampon normál hajra 400 ml,Hajápolás,2025-12-22,2026-01-12,3,0.00,0.00,91.33
+SKU002,Sampon korpásodás ellen 250 ml,Hajápolás,2025-12-22,2026-01-12,3,0.00,0.00,48.24
+SKU003,Hajbalzsam 200 ml,Hajápolás,2025-12-22,2026-01-12,3,7.00,0.30,114.18
+SKU004,Hajpakolás 300 ml,Hajápolás,2025-12-22,2026-01-12,3,0.00,0.00,42.04
+SKU005,Hajlakk 250 ml,Hajápolás,2025-12-22,2026-01-12,3,0.00,0.00,98.18
+SKU006,Hajfesték barna,Hajápolás,2025-12-22,2026-01-12,3,0.00,0.00,41.84
+SKU007,Szárazsampon 200 ml,Hajápolás,2025-12-22,2026-01-12,3,0.00,0.00,95.91
+SKU008,Tusfürdő 250 ml,Testápolás,2025-12-22,2026-01-12,3,7.00,0.33,305.59
+SKU009,Testápoló 400 ml,Testápolás,2025-12-22,2026-01-12,3,0.00,0.00,73.19
+SKU010,Golyós dezodor 50 ml,Testápolás,2025-12-22,2026-01-12,3,0.00,0.00,47.39
+SKU011,Spray dezodor 150 ml,Testápolás,2025-12-22,2026-01-12,3,0.00,0.00,58.71
+SKU012,Kézkrém 75 ml,Testápolás,2025-12-22,2026-01-12,3,7.00,0.15,115.25
+SKU013,Ajándékszett tusfürdő+testápoló,Testápolás,2025-12-22,2026-01-12,3,0.00,0.00,85.67
+SKU014,Folyékony szappan 500 ml,Testápolás,2025-12-22,2026-01-12,3,0.00,0.00,64.45
+SKU015,Naptej SPF30 200 ml,Napvédelem,2025-12-22,2026-01-12,3,0.00,0.00,13.28
+SKU016,Naptej SPF50 200 ml,Napvédelem,2025-12-22,2026-01-12,3,0.00,0.00,13.38
+SKU017,Napozás utáni testápoló,Napvédelem,2025-12-22,2026-01-12,3,0.00,0.00,7.05
+SKU018,Gyermek naptej SPF50+,Napvédelem,2025-12-22,2026-01-12,3,0.00,0.00,14.64
+SKU019,Napvédő arckrém SPF50,Napvédelem,2025-12-22,2026-01-12,3,0.00,0.00,6.31
+SKU020,Mosógél 2 l,Háztartás és tisztítás,2025-12-22,2026-01-12,3,0.00,0.00,50.25
+SKU021,Mosókapszula (30 db),Háztartás és tisztítás,2025-12-22,2026-01-12,3,7.00,0.10,122.39
+SKU022,"Öblítő 1,5 l",Háztartás és tisztítás,2025-12-22,2026-01-12,3,0.00,0.00,38.51
+SKU023,Mosogatószer 1 l,Háztartás és tisztítás,2025-12-22,2026-01-12,3,0.00,0.00,43.09
+SKU024,Mosogatógép-tabletta (40 db),Háztartás és tisztítás,2025-12-22,2026-01-12,3,0.00,0.00,507.38
+SKU025,Általános tisztítószer 750 ml,Háztartás és tisztítás,2025-12-22,2026-01-12,3,0.00,0.00,45.62
+SKU026,Fürdőszobai tisztító 500 ml,Háztartás és tisztítás,2025-12-22,2026-01-12,3,7.00,0.30,126.18
+SKU027,WC-tisztító gél 750 ml,Háztartás és tisztítás,2025-12-22,2026-01-12,3,0.00,0.00,97.23
+SKU028,Pelenka 4-es méret (50 db),Babaápolás,2025-12-22,2026-01-12,3,0.00,0.00,43.11
+SKU029,Pelenka 5-ös méret (44 db),Babaápolás,2025-12-22,2026-01-12,3,0.00,0.00,52.91
+SKU030,Popsitörlő (3×64 db),Babaápolás,2025-12-22,2026-01-12,3,0.00,0.00,92.21
+SKU031,Babasampon 300 ml,Babaápolás,2025-12-22,2026-01-12,3,0.00,0.00,82.39
+SKU032,Popsikrém 100 ml,Babaápolás,2025-12-22,2026-01-12,3,0.00,0.00,23.52
+SKU033,Babafürdető 400 ml,Babaápolás,2025-12-22,2026-01-12,3,0.00,0.00,127.36
+SKU034,Fogkrém fehérítő 75 ml,Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,78.58
+SKU035,Fogkrém érzékeny fogra 75 ml,Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,62.42
+SKU036,Fogkefe közepes,Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,28.50
+SKU037,Szájvíz 500 ml,Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,131.25
+SKU038,Fogselyem 50 m,Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,71.41
+SKU039,Elektromos fogkefe pótfej (2 db),Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,197.83
+SKU040,Gyermek fogkrém 50 ml,Szájhigiénia,2025-12-22,2026-01-12,3,0.00,0.00,143.53
+SKU001,Sampon normál hajra 400 ml,Hajápolás,2025-12-22,2026-01-19,4,0.00,0.00,86.00
+SKU002,Sampon korpásodás ellen 250 ml,Hajápolás,2025-12-22,2026-01-19,4,0.00,0.00,48.58
+SKU003,Hajbalzsam 200 ml,Hajápolás,2025-12-22,2026-01-19,4,7.00,0.30,116.43
+SKU004,Hajpakolás 300 ml,Hajápolás,2025-12-22,2026-01-19,4,0.00,0.00,49.97
+SKU005,Hajlakk 250 ml,Hajápolás,2025-12-22,2026-01-19,4,0.00,0.00,96.98
+SKU006,Hajfesték barna,Hajápolás,2025-12-22,2026-01-19,4,0.00,0.00,43.69
+SKU007,Szárazsampon 200 ml,Hajápolás,2025-12-22,2026-01-19,4,0.00,0.00,105.76
+SKU008,Tusfürdő 250 ml,Testápolás,2025-12-22,2026-01-19,4,7.00,0.33,247.19
+SKU009,Testápoló 400 ml,Testápolás,2025-12-22,2026-01-19,4,0.00,0.00,63.11
+SKU010,Golyós dezodor 50 ml,Testápolás,2025-12-22,2026-01-19,4,0.00,0.00,53.21
+SKU011,Spray dezodor 150 ml,Testápolás,2025-12-22,2026-01-19,4,0.00,0.00,56.23
+SKU012,Kézkrém 75 ml,Testápolás,2025-12-22,2026-01-19,4,7.00,0.15,98.38
+SKU013,Ajándékszett tusfürdő+testápoló,Testápolás,2025-12-22,2026-01-19,4,0.00,0.00,70.87
+SKU014,Folyékony szappan 500 ml,Testápolás,2025-12-22,2026-01-19,4,0.00,0.00,59.97
+SKU015,Naptej SPF30 200 ml,Napvédelem,2025-12-22,2026-01-19,4,0.00,0.00,10.29
+SKU016,Naptej SPF50 200 ml,Napvédelem,2025-12-22,2026-01-19,4,0.00,0.00,11.81
+SKU017,Napozás utáni testápoló,Napvédelem,2025-12-22,2026-01-19,4,0.00,0.00,7.05
+SKU018,Gyermek naptej SPF50+,Napvédelem,2025-12-22,2026-01-19,4,0.00,0.00,11.50
+SKU019,Napvédő arckrém SPF50,Napvédelem,2025-12-22,2026-01-19,4,0.00,0.00,4.77
+SKU020,Mosógél 2 l,Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,48.04
+SKU021,Mosókapszula (30 db),Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,66.18
+SKU022,"Öblítő 1,5 l",Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,43.19
+SKU023,Mosogatószer 1 l,Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,42.74
+SKU024,Mosogatógép-tabletta (40 db),Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,456.63
+SKU025,Általános tisztítószer 750 ml,Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,45.22
+SKU026,Fürdőszobai tisztító 500 ml,Háztartás és tisztítás,2025-12-22,2026-01-19,4,7.00,0.30,117.45
+SKU027,WC-tisztító gél 750 ml,Háztartás és tisztítás,2025-12-22,2026-01-19,4,0.00,0.00,116.87
+SKU028,Pelenka 4-es méret (50 db),Babaápolás,2025-12-22,2026-01-19,4,0.00,0.00,48.98
+SKU029,Pelenka 5-ös méret (44 db),Babaápolás,2025-12-22,2026-01-19,4,0.00,0.00,50.29
+SKU030,Popsitörlő (3×64 db),Babaápolás,2025-12-22,2026-01-19,4,0.00,0.00,89.15
+SKU031,Babasampon 300 ml,Babaápolás,2025-12-22,2026-01-19,4,0.00,0.00,84.34
+SKU032,Popsikrém 100 ml,Babaápolás,2025-12-22,2026-01-19,4,0.00,0.00,26.72
+SKU033,Babafürdető 400 ml,Babaápolás,2025-12-22,2026-01-19,4,0.00,0.00,131.06
+SKU034,Fogkrém fehérítő 75 ml,Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,77.61
+SKU035,Fogkrém érzékeny fogra 75 ml,Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,58.67
+SKU036,Fogkefe közepes,Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,31.35
+SKU037,Szájvíz 500 ml,Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,143.36
+SKU038,Fogselyem 50 m,Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,77.67
+SKU039,Elektromos fogkefe pótfej (2 db),Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,188.59
+SKU040,Gyermek fogkrém 50 ml,Szájhigiénia,2025-12-22,2026-01-19,4,0.00,0.00,149.33

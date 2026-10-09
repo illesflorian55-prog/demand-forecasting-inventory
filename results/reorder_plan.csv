@@ -1,0 +1,41 @@
+sku,product_name,category,atfutasi_ido_het,elorejelzes_1_het,elorejelzes_2_het,elorejelzes_3_het,elorejelzes_4_het,biztonsagi_keszlet,feltoltesi_szint,aktualis_keszlet,beerkezo_rendelesek,javasolt_rendeles_db,rendeles_erteke_ft,abc,xyz
+SKU001,Sampon normál hajra 400 ml,Hajápolás,3,89.6,96.0,91.3,86.0,135.0,498.0,180.0,157.0,161.0,183540.0,A,X
+SKU002,Sampon korpásodás ellen 250 ml,Hajápolás,1,55.0,54.4,48.2,48.6,75.0,185.0,77.0,43.0,65.0,74750.0,B,Y
+SKU003,Hajbalzsam 200 ml,Hajápolás,2,45.8,42.2,114.2,116.4,29.0,232.0,49.0,81.0,102.0,116280.0,B,X
+SKU004,Hajpakolás 300 ml,Hajápolás,2,187.3,190.1,42.0,50.0,38.0,458.0,132.0,54.0,272.0,397120.0,A,Y
+SKU005,Hajlakk 250 ml,Hajápolás,2,73.2,78.6,98.2,97.0,103.0,353.0,165.0,499.0,0.0,0.0,A,Y
+SKU006,Hajfesték barna,Hajápolás,2,43.2,43.5,41.8,43.7,51.0,180.0,45.0,107.0,28.0,68040.0,A,X
+SKU007,Szárazsampon 200 ml,Hajápolás,1,99.1,309.5,95.9,105.8,103.0,512.0,78.0,130.0,304.0,304000.0,A,Y
+SKU008,Tusfürdő 250 ml,Testápolás,3,84.6,75.8,305.6,247.2,87.0,801.0,138.0,131.0,532.0,420280.0,A,X
+SKU009,Testápoló 400 ml,Testápolás,1,86.3,63.1,73.2,63.1,49.0,199.0,92.0,79.0,28.0,43400.0,A,Y
+SKU010,Golyós dezodor 50 ml,Testápolás,2,53.1,58.5,47.4,53.2,50.0,209.0,142.0,93.0,0.0,0.0,C,X
+SKU011,Spray dezodor 150 ml,Testápolás,2,69.3,70.5,58.7,56.2,67.0,266.0,112.0,122.0,32.0,28800.0,B,Y
+SKU012,Kézkrém 75 ml,Testápolás,1,62.5,68.4,115.2,98.4,46.0,177.0,82.0,80.0,15.0,22800.0,A,Y
+SKU013,Ajándékszett tusfürdő+testápoló,Testápolás,1,71.1,81.8,85.7,70.9,113.0,266.0,114.0,135.0,17.0,12750.0,A,Y
+SKU014,Folyékony szappan 500 ml,Testápolás,2,174.8,57.2,64.4,60.0,67.0,364.0,139.0,117.0,108.0,122040.0,B,X
+SKU015,Naptej SPF30 200 ml,Napvédelem,2,9.8,11.4,13.3,10.3,104.0,139.0,125.0,5.0,9.0,18270.0,A,Z
+SKU016,Naptej SPF50 200 ml,Napvédelem,2,11.6,14.9,13.4,11.8,132.0,172.0,131.0,32.0,9.0,28080.0,A,Z
+SKU017,Napozás utáni testápoló,Napvédelem,1,8.7,7.1,7.0,7.0,51.0,67.0,62.0,5.0,0.0,0.0,B,Z
+SKU018,Gyermek naptej SPF50+,Napvédelem,2,11.6,15.4,14.6,11.5,114.0,156.0,98.0,61.0,0.0,0.0,A,Z
+SKU019,Napvédő arckrém SPF50,Napvédelem,2,10.2,16.5,6.3,4.8,59.0,93.0,73.0,3.0,17.0,33660.0,B,Z
+SKU020,Mosógél 2 l,Háztartás és tisztítás,2,179.8,45.4,50.2,48.0,56.0,332.0,92.0,290.0,0.0,0.0,C,Y
+SKU021,Mosókapszula (30 db),Háztartás és tisztítás,1,73.6,131.9,122.4,66.2,71.0,277.0,90.0,62.0,125.0,191250.0,A,Y
+SKU022,"Öblítő 1,5 l",Háztartás és tisztítás,1,38.2,77.5,38.5,43.2,49.0,165.0,78.0,28.0,59.0,61360.0,C,Y
+SKU023,Mosogatószer 1 l,Háztartás és tisztítás,2,117.0,37.2,43.1,42.7,42.0,240.0,58.0,235.0,0.0,0.0,C,X
+SKU024,Mosogatógép-tabletta (40 db),Háztartás és tisztítás,2,406.9,463.9,507.4,456.6,415.0,1794.0,181.0,1016.0,597.0,513420.0,A,X
+SKU025,Általános tisztítószer 750 ml,Háztartás és tisztítás,2,40.8,44.5,45.6,45.2,35.0,166.0,45.0,63.0,58.0,22040.0,C,X
+SKU026,Fürdőszobai tisztító 500 ml,Háztartás és tisztítás,1,30.7,32.1,126.2,117.4,39.0,102.0,56.0,17.0,29.0,38570.0,C,Y
+SKU027,WC-tisztító gél 750 ml,Háztartás és tisztítás,2,135.7,84.1,97.2,116.9,133.0,450.0,88.0,377.0,0.0,0.0,A,X
+SKU028,Pelenka 4-es méret (50 db),Babaápolás,2,69.3,36.6,43.1,49.0,49.0,198.0,50.0,175.0,0.0,0.0,B,X
+SKU029,Pelenka 5-ös méret (44 db),Babaápolás,2,40.5,47.4,52.9,50.3,83.0,224.0,100.0,120.0,4.0,9280.0,A,X
+SKU030,Popsitörlő (3×64 db),Babaápolás,3,82.9,92.3,92.2,89.2,165.0,522.0,286.0,123.0,113.0,166110.0,A,Y
+SKU031,Babasampon 300 ml,Babaápolás,2,77.4,85.2,82.4,84.3,73.0,319.0,142.0,51.0,126.0,212940.0,A,Y
+SKU032,Popsikrém 100 ml,Babaápolás,1,39.1,46.9,23.5,26.7,22.0,108.0,28.0,23.0,57.0,122550.0,B,X
+SKU033,Babafürdető 400 ml,Babaápolás,1,105.4,126.5,127.4,131.1,130.0,362.0,103.0,153.0,106.0,314820.0,A,X
+SKU034,Fogkrém fehérítő 75 ml,Szájhigiénia,2,59.7,72.2,78.6,77.6,68.0,279.0,114.0,278.0,0.0,0.0,B,X
+SKU035,Fogkrém érzékeny fogra 75 ml,Szájhigiénia,1,44.8,54.7,62.4,58.7,45.0,145.0,0.0,134.0,11.0,8470.0,B,Y
+SKU036,Fogkefe közepes,Szájhigiénia,2,25.9,29.3,28.5,31.4,24.0,108.0,28.0,51.0,29.0,16240.0,C,X
+SKU037,Szájvíz 500 ml,Szájhigiénia,2,115.6,211.4,131.2,143.4,148.0,607.0,190.0,157.0,260.0,215800.0,A,Y
+SKU038,Fogselyem 50 m,Szájhigiénia,1,75.6,143.6,71.4,77.7,104.0,324.0,83.0,96.0,145.0,107300.0,B,X
+SKU039,Elektromos fogkefe pótfej (2 db),Szájhigiénia,3,148.9,176.4,197.8,188.6,399.0,1111.0,470.0,1392.0,0.0,0.0,A,Y
+SKU040,Gyermek fogkrém 50 ml,Szájhigiénia,1,118.2,138.5,143.5,149.3,77.0,334.0,89.0,107.0,138.0,63480.0,B,X

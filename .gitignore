@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Rendszerfájlok
+.DS_Store
+Thumbs.db

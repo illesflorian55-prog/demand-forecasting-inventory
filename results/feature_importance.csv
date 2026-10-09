@@ -1,0 +1,20 @@
+jellemzo,jellemzo_hu,fontossag_mae
+base_level,Alapszint (8 hetes medián),18.6636
+discount,Akciós kedvezmény mértéke,9.9692
+category_code,Termékkategória,6.394
+roll_4,4 hetes mozgóátlag,6.0893
+promo_days,Akciós napok a célhéten,5.809
+last_year,Előző év azonos heti eladása,3.9782
+roll_13,13 hetes mozgóátlag,2.865
+lag_0,Eladás az utolsó ismert héten,2.0314
+week_of_year,Naptári hét,1.5826
+roll_8,8 hetes mozgóátlag,0.7981
+lag_1,Eladás 1 héttel korábban,0.6777
+holiday_days,Munkaszüneti napok a célhéten,0.6084
+promo_days_origin,Akció az utolsó ismert héten,0.4714
+lag_3,Eladás 3 héttel korábban,0.456
+promo_prev_week,Akció az előző héten,0.4185
+lag_2,Eladás 2 héttel korábban,0.3749
+h,Előrejelzési távolság (hét),0.3044
+last_year_promo_days,Akció az előző év azonos hetén,0.2092
+month,Hónap,-0.0004

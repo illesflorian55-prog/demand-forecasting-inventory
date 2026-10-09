@@ -1,0 +1,4 @@
+kod,szabaly,kiszolgalasi_szint,elveszett_eladas_ft,atlagos_keszletertek_ft,hiany_hetek_aranya,ertekelt_hetek
+A,4 hetes mozgóátlag + 1 hét biztonsági készlet,0.9034,35301820,7581079,0.1297,48
+B,4 hetes mozgóátlag + statisztikai biztonsági készlet,0.9601,14467680,11790867,0.0521,48
+C,Gépi tanulás + statisztikai biztonsági készlet,0.9779,8200230,4751086,0.0542,48
